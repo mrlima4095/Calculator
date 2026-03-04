@@ -8,3 +8,13 @@ D:\ETEC\2 DSA\DS\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
 D:\ETEC\2 DSA\DS\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
 D:\ETEC\2 DSA\DS\Calc\Calc\obj\Debug\Calc.exe
 D:\ETEC\2 DSA\DS\Calc\Calc\obj\Debug\Calc.pdb
+D:\DS\Calculadora\Calc\bin\Debug\Calc.exe.config
+D:\DS\Calculadora\Calc\bin\Debug\Calc.exe
+D:\DS\Calculadora\Calc\bin\Debug\Calc.pdb
+D:\DS\Calculadora\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+D:\DS\Calculadora\Calc\obj\Debug\Calc.Form1.resources
+D:\DS\Calculadora\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\DS\Calculadora\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+D:\DS\Calculadora\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\DS\Calculadora\Calc\obj\Debug\Calc.exe
+D:\DS\Calculadora\Calc\obj\Debug\Calc.pdb
