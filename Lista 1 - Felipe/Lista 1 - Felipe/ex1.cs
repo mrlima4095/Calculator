@@ -21,6 +21,16 @@ namespace Lista_1___Felipe
         {
 
         }
+        private void fireBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void clearBtn_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+            textBox2.Text = "";
+            result_textBox.Text = "";
+        }
 
         private void exitBtn_Click(object sender, EventArgs e)
         {

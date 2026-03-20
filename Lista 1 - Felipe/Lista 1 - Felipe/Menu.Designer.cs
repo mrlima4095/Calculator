@@ -346,7 +346,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Chocolate;
+            this.BackColor = System.Drawing.Color.Moccasin;
             this.CancelButton = this.exitBtn;
             this.ClientSize = new System.Drawing.Size(1051, 655);
             this.Controls.Add(this.exitBtn);
@@ -373,9 +373,11 @@
             this.Controls.Add(this.ex1_choiceBtn);
             this.Controls.Add(this.label_VendorName);
             this.Controls.Add(this.label_Lista1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "menu";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
             this.Load += new System.EventHandler(this.menu_Load);
             this.ResumeLayout(false);

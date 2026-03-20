@@ -73,9 +73,29 @@ namespace Lista_1___Felipe.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap calculation_count_finance_calculator_calc_math_icon_256453__1_ {
+            get {
+                object obj = ResourceManager.GetObject("calculation_count_finance_calculator_calc_math_icon_256453 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap iconfinder_broom_clean_service_labor_website_4622511_122412 {
             get {
                 object obj = ResourceManager.GetObject("iconfinder-broom-clean-service-labor-website-4622511_122412", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap plus_icon_icons_com_70890 {
+            get {
+                object obj = ResourceManager.GetObject("plus_icon-icons.com_70890", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
