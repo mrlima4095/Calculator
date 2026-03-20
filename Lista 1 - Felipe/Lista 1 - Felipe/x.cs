@@ -10,14 +10,15 @@ using System.Windows.Forms;
 
 namespace Lista_1___Felipe
 {
-    public partial class ex1 : Form
+    public partial class x : Form
     {
-        public ex1()
+        public x
+        ()
         {
             InitializeComponent();
         }
 
-        private void ex1_Load(object sender, EventArgs e)
+        private void x_Load(object sender, EventArgs e)
         {
 
         }
@@ -30,7 +31,7 @@ namespace Lista_1___Felipe
 
             double area = Convert.ToDouble(textBox1.Text), raio = Convert.ToDouble(textBox2.Text);
 
-            result_textBox.Text = "O raio da circunferencia é " + 
+            result_textBox.Text = "O raio da circunferencia é ";
         }
         private void clearBtn_Click(object sender, EventArgs e) {  textBox1.Text = ""; textBox2.Text = ""; result_textBox.Text = ""; }
         private void exitBtn_Click(object sender, EventArgs e) { this.Close(); }

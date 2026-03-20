@@ -1,6 +1,6 @@
-﻿namespace Lista_1___Felipe
+namespace Lista_1___Felipe
 {
-    partial class ex1
+    partial class template
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ex1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(template));
             this.ex_Title = new System.Windows.Forms.Label();
             this.ex_Descriptor = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -166,7 +166,7 @@
             this.fireBtn.TabIndex = 2;
             this.fireBtn.UseVisualStyleBackColor = false;
             // 
-            // ex1
+            // template
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -188,10 +188,10 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "ex1";
+            this.Name = "template";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "1. Calculadora de Raio";
-            this.Load += new System.EventHandler(this.ex1_Load);
+            this.Load += new System.EventHandler(this.template_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -83,7 +83,7 @@
             this.ex1_choiceBtn.Name = "ex1_choiceBtn";
             this.ex1_choiceBtn.Size = new System.Drawing.Size(317, 38);
             this.ex1_choiceBtn.TabIndex = 0;
-            this.ex1_choiceBtn.Text = "1. Calculadora de Circunferencia";
+            this.ex1_choiceBtn.Text = "1. Calculadora de Raio";
             this.ex1_choiceBtn.UseVisualStyleBackColor = false;
             this.ex1_choiceBtn.Click += new System.EventHandler(this.ex1_choiceBtn_Click);
             // 
